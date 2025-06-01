@@ -1,0 +1,11 @@
+LanguageHaveWorkedWith,LanguageHaveWorkedWithCounts,DatabaseHaveWorkedWith,DatabaseHaveWorkedWithCounts,PlatformHaveWorkedWith,PlatformHaveWorkedWithCounts,WebframeHaveWorkedWith,WebframeHaveWorkedWithCounts,LanguageWantToWorkWith,LanguageWantToWorkWithCounts,DatabaseWantToWorkWith,DatabaseWantToWorkWithCounts,PlatformWantToWorkWith,PlatformWantToWorkWithCounts,WebframeWantToWorkWith,WebframeWantToWorkWithCounts
+JavaScript,14943,PostgreSQL,11514,Amazon Web Services (AWS),10871,Node.js,9230,JavaScript,11541,PostgreSQL,12193,Amazon Web Services (AWS),10516,React,8223
+SQL,12602,MySQL,8556,Microsoft Azure,6681,React,8999,SQL,10944,Redis,6384,Microsoft Azure,6380,Node.js,8096
+HTML/CSS,12410,SQLite,7021,Google Cloud,5537,jQuery,4810,TypeScript,10437,SQLite,6295,Google Cloud,5431,Next.js,4458
+TypeScript,10709,MongoDB,5930,Cloudflare,3874,Express,4408,HTML/CSS,10016,MySQL,6204,Cloudflare,4219,ASP.NET CORE,4166
+Python,9590,Microsoft SQL Server,5870,Digital Ocean,3170,Next.js,4399,Python,8919,MongoDB,5618,Digital Ocean,2908,Vue.js,3903
+Bash/Shell (all shells),7244,Redis,5814,Firebase,3025,ASP.NET CORE,4319,Go,5661,Microsoft SQL Server,4345,Vercel,2776,Angular,3309
+C#,6340,MariaDB,3994,Vercel,2875,Angular,4038,Rust,5597,Elasticsearch,3665,Firebase,2720,Express,3216
+Java,5982,Elasticsearch,3491,Heroku,2002,Vue.js,3642,C#,5590,MariaDB,3078,Hetzner,1577,FastAPI,2823
+PHP,4644,Dynamodb,2268,Netlify,1662,ASP.NET,3094,Bash/Shell (all shells),5582,Dynamodb,2154,Supabase,1368,Spring Boot,2674
+PowerShell,3438,Oracle,1907,Hetzner,1392,Spring Boot,2916,Java,4048,Supabase,1623,Netlify,1267,Svelte,2559
