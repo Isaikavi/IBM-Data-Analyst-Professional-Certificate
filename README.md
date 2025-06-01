@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Professional-Certificate
+# Coursera-IBM-Data-Analyst-Capstone-Project
 Key Learnings:
 1. Data Acquisition - Web APIs, Beautiful Soup
 2. Data Wrangling - Normalization, One-hot encoding
